@@ -1,11 +1,13 @@
-# Awesome Diffusion Model Unlearning
+# Awesome Concept Erasing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of academic articles, resources, and datasets on the subject of **machine unlearning for diffusion models**.
 
-> [!NOTE]
-> If you believe a paper on diffusion model unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible.
+
+<!-- A collection of academic articles, resources, and datasets on the subject of **machine unlearning for diffusion models**. -->
+
+<!-- > [!NOTE]
+> If you believe a paper on diffusion model unlearning is not included, or if you find a mistake, typo, or information that is not up to date, please open an issue, and I will address it as soon as possible. -->
 
 ## Table of Contents
 
